@@ -184,8 +184,9 @@ img {
 
 /* --------------- mobile menu -----------------*/
 
-.mobile-menu img {
-    width: 5rem;
+.menu {
+    color: white;
+    font-size: 7rem;
 }
 
 @media (min-width: 768px) {
